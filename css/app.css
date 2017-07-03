@@ -4223,5 +4223,5 @@ $btn-border-radius-small:        $border-radius-small !default;
   width: 350px;
   margin: auto; }
 
-._2tga span._5n6h, ._49vh, ._5n6h {
-  vertical-align: top; }
+#facebook ._2tga span._49vh, #facebook ._2tga span._5n6h, ._49vh, ._5n6h {
+  vertical-align: top !important; }
