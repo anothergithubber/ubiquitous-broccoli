@@ -4222,3 +4222,6 @@ $btn-border-radius-small:        $border-radius-small !default;
 #login-form {
   width: 350px;
   margin: auto; }
+
+.twitter-share-button[style] {
+  vertical-align: text-bottom !important; }
